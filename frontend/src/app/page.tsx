@@ -73,7 +73,7 @@ export default function Home() {
     "Food & Beverage",
     "Energy Storage",
     "Catalyst Support",
-    "Automotive Filters",
+    "Automotive ",
     "Medical & Pharma",
     "Nuclear Applications",
     "EDLC",
